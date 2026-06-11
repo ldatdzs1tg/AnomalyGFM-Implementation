@@ -17,7 +17,8 @@ build/
 venv/
 env/
 .conda/
-AnomalyGFM-main/          # local venv / original source folder
+# local venv / original paper source folder
+AnomalyGFM-main/           
 
 # ─── IDE ──────────────────────────────────────────────────────────────────────
 .vscode/
@@ -35,3 +36,7 @@ desktop.ini
 
 # ─── Misc ─────────────────────────────────────────────────────────────────────
 *.log
+
+
+# ─── Git ─────────────────────────────────────────────────────────────────────
+.gitattributes
